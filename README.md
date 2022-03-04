@@ -470,7 +470,7 @@ You can download the PDF and Epub version of this repository from the latest run
       var object = new Object();
       ```
 
-   2. **Object's create method:** <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create" target="_blank">link</a>
+   2. **Object's create method:** <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create" target="_blank" >link</a>
 
       The create method of Object creates a new object by passing the prototype object as a parameter
 
